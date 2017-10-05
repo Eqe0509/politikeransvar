@@ -13,6 +13,11 @@ Giv dit indlæg en titel og uddybende tekst. Til højre vælger du så en af de
 labels der passer på dit indlæg. Mangler der et label så opret et issue med
 "foreslag" label.
 
+Hvis du gerne vil skrive om en bestemt politiker så brug "politiker" label og
+titel burde bare være navnet på den bestemte politiker. Al information omkring
+den politiker hører så til i det "issue". Sker der noget nyt, så opretter man
+bare en kommentar der og ikke en ny "issue".
+
 ## Hvorfor?
 
 Der mangler en platform hvor man kan få et overblik og politikerne her i
