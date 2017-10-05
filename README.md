@@ -9,18 +9,12 @@ I toppen af siden går du ind på Issues (eller trykker
 [her](https://github.com/politikeransvar/politikeransvar/issues)). Du skal så
 oprette et "New Issue" ved at trykke på den grønne knap.
 
-Giv dit indlæg en titel og uddybende tekst. Til højre vælger du så en af de
-labels der passer på dit indlæg. Mangler der et label så opret et issue med
-"foreslag" label.
-
-Hvis du gerne vil skrive om en bestemt politiker så brug "politiker" label og
-titel burde bare være navnet på den bestemte politiker. Al information omkring
-den politiker hører så til i det "issue". Sker der noget nyt, så opretter man
-bare en kommentar der og ikke en ny "issue".
+Giv dit indlæg en titel og uddybende tekst. Teksten skal gerne indeholde kilder
+og være så objektiv som mulig. En "mod" vil sætte et relevant flair.
 
 ## Hvorfor?
 
-Der mangler en platform hvor man kan få et overblik og politikerne her i
+Der mangler en platform hvor man kan få et overblik over politikerne her i
 Danmark. Fokuset ligger på at politikerne skal tage ansvar for deres handlinger.
 
 Det skal også være let for alle at kunne bidrage. Det kræver en konto men du kan
